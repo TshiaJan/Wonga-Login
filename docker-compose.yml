@@ -1,0 +1,11 @@
+# Node.js
+frontend/node_modules/
+frontend/.env
+
+# .NET
+backend/bin/
+backend/obj/
+backend/.vs/
+
+# Docker
+*.env
